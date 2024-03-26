@@ -1,0 +1,7 @@
+/* custom-swiper.css */
+.swiper-pagination-bullet {
+  width: 8px; /* Example width */
+  height: 8px; /* Example height */
+  background-color: #007bff; /* Example color */
+  border-radius: 50%; /* Example for rounded dots */
+}
